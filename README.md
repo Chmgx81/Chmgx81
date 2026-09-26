@@ -12,7 +12,7 @@ I find vulnerabilities in LLM-powered applications before attackers do.
 - Built [`raas-audit-toolkit`](https://github.com/Chmgx81/raas-audit-toolkit) — 
   automated LLM prompt injection scanner that identified 23 vulnerabilities 
   including 2 Critical in a recent audit
-- 300-level Cybersecurity student @ FUTO, Nigeria
+- 400-level Cybersecurity student @ FUTO, Nigeria
 
 **OWASP LLM Top 10 | MITRE ATLAS | API Security**
 
