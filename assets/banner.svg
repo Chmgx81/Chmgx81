@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" fill="#0d1117"/>
+  <text x="80" y="90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" fill="#3fb950">~ ❯</text>
+  <text x="600" y="132" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="54" font-weight="600" fill="#e6edf3" text-anchor="middle" letter-spacing="4">CHIMDIEBUBE EGEREONU</text>
+  <rect x="510" y="160" width="180" height="2" fill="#3fb950"/>
+  <text x="600" y="205" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21" fill="#8b949e" text-anchor="middle" letter-spacing="2">AGENTIC SECURITY ENGINEER · AI RED TEAMER</text>
+  <text x="600" y="255" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#6e7681" text-anchor="middle" letter-spacing="1">plan → build → test → attack → secure → repeat</text>
+</svg>
