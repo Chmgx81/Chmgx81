@@ -31,6 +31,6 @@ AI red teaming — prompt injection · tool poisoning · memory extraction · ag
 
 **FIND ME**
 
-[LinkedIn](https://www.linkedin.com/in/chimdiebube-egereonu-b09124390/) · [rootmaze0x@gmail.com](mailto:rootmaze0x@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/chimdiebube-egereonu-b09124390/) · [X — @chimdiVuln](https://x.com/chimdiVuln) · [rootmaze0x@gmail.com](mailto:rootmaze0x@gmail.com)
 
 </div>
