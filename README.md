@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Chimdiebube Egereonu, AI security researcher on the path from AI Security Engineer to AI Security Architect" width="100%"/>
+# Chimdiebube Egereonu
+
+**I break AI agents, then build them back. Hardened.**
 
 <a href="https://genai.owasp.org/"><img src="https://img.shields.io/badge/OWASP-LLM_%26_Agentic_Top_10-161b22?style=for-the-badge&labelColor=0d1117" alt="OWASP LLM & Agentic Top 10"/></a>
 <a href="https://atlas.mitre.org/"><img src="https://img.shields.io/badge/MITRE-ATLAS-161b22?style=for-the-badge&labelColor=0d1117" alt="MITRE ATLAS"/></a>
