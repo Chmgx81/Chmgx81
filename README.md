@@ -19,10 +19,6 @@
 ~ ❯ whoami
 chimdiebube_egereonu :: ai security researcher
 llm & api vulnerability analysis · audit tooling for ai-powered applications
-
-~ ❯ tail -f now.log
-[build]   tilde :: a model-agnostic agentic harness for security engineering
-[commit]  every day of work lands as a commit
 ```
 
 ### `$ cat roadmap.md`
